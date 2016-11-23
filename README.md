@@ -5,7 +5,7 @@ Real-time Chart using NodeJs, MongoDB, Socket.IO and Highcharts
 
 1- Create a new database in MongoDB named charts
 
-  `` use charts ``  
+  `` use charts``  
 
 2- Create a Capped Collection
 
@@ -15,7 +15,7 @@ Real-time Chart using NodeJs, MongoDB, Socket.IO and Highcharts
 
 1- Change MongoDB URI in app.js
 
-`` var mongodbUri = "YOUR_MongoDB_URI "``
+`` var mongodbUri = "YOUR_MONGODB_URI"``
 
 2- Install dependencies
 
