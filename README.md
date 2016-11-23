@@ -36,6 +36,6 @@ Real-time Chart using NodeJs, MongoDB, Socket.IO and Highcharts
 
 ``python populate_database.py``
 
-or insert in mongoDB shell
+or insert manually in mongoDB shell
 
 ``db.data.insert({"number":1, "chart_name":"line_chart"});``
