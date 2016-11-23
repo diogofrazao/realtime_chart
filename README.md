@@ -24,6 +24,18 @@ Real-time Chart using NodeJs, MongoDB, Socket.IO and Highcharts
 
 ## Step 3: Start Application:
 
-1- Start Node APP
+1- Start Node App
 
 `` node app ``
+
+2- Open your browser and go to:
+
+`` http://localhost:3000 ``
+
+3- Populate data collection
+
+``python populate_database.py``
+
+or insert in mongoDB shell
+
+``db.data.insert({"number":1, "chart_name":"line_chart"});``
