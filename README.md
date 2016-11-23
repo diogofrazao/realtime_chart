@@ -9,7 +9,7 @@ Real-time graph with NodeJs, MongoDB, Socket.IO and Highcharts
 
 2- Create a Capped Collection
 
-`` db.createCollection('data', { capped: true, size: 100000 });
+`` db.createCollection('data', { capped: true, size: 100000 }); ``
 
 
 
