@@ -1,5 +1,5 @@
 # Realtime Chart
-Real-time graph with NodeJs, MongoDB, Socket.IO and Highcharts
+Real-time Chart using NodeJs, MongoDB, Socket.IO and Highcharts
 
 ## Step 1: Setup MongoDB:
 
